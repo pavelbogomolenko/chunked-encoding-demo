@@ -1,0 +1,23 @@
+{
+  "name": "chunked-response-consumer",
+  "version": "0.1.0",
+  "authors": [
+    "pavelbogomolenko <bpsource@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jsonpipe": "https://github.com/eBay/jsonpipe.git"
+  }
+}

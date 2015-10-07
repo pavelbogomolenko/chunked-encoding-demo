@@ -1,0 +1,30 @@
+{
+  "name": "jsonpipe",
+  "main": "jsonpipe.js",
+  "keywords": [
+    "jsonpipe",
+    "ajax",
+    "json chunks",
+    "bigpipe"
+  ],
+  "ignore": [
+    "**/.*",
+    "lib",
+    "test",
+    ".gitignore",
+    "*.md",
+    "*.json",
+    "gulpfile.js",
+    "**/*.txt"
+  ],
+  "homepage": "https://github.com/eBay/jsonpipe",
+  "_release": "25ccabe5f8",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "25ccabe5f830be39114b1f7749192f4e4156961f"
+  },
+  "_source": "https://github.com/eBay/jsonpipe.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/eBay/jsonpipe.git"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "chunked-response-consumer",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.5.3",
+    "http-server": "^0.8.5"
+  },
+  "version": "0.1.0"
+}
